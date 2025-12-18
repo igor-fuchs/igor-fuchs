@@ -25,7 +25,6 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 ### Testes
 
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge\&logo=vitest\&logoColor=white)
@@ -48,14 +47,12 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-fuchs&layout=compact&theme=radical"/>
 </div>
 
-
-## 📫 Contato
-
-* 💼 LinkedIn: https://www.linkedin.com/in/igor-fuchs-pereira/
-* 📧 Email: igorfuchs111@gmail.com
-
 ---
 
 ## 🏆 Projetos em destaque
 
-- 🔗 [Embedded Integration](https://github.com/igor-fuchs/Embedded-Integration) — Integração entre sistema industrial, backend e frontend.
+- 🏭 **Conjunto de Aplicações Vinculadas ao Maquinário Fábril**
+- 🔗 [Embedded Integration Frontend](https://github.com/igor-fuchs/Embedded-Integration-Frontend) — Website com interação e visualização dos máquinários através de chatbot.
+- 🔗 [Embedded Integration Backend](https://github.com/igor-fuchs/Embedded-Integration-Backend) — Definição de websockets e APIs, além de backups do Programador Lógico Controlável (PLC).
+- 🔗 [Embedded Integration Bridge](https://github.com/igor-fuchs/Embedded-Integration-Bridge) — Edge Gateway permitindo a comunicação entre o maquinário e backend (OPC UA e Http).
+  
