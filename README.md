@@ -52,7 +52,7 @@
 ## 🏆 Projetos em destaque
 
 - 🏭 **Conjunto de Aplicações Vinculadas ao Maquinário Fábril**
-- 🔗 [Embedded Integration Frontend](https://github.com/igor-fuchs/Embedded-Integration-Frontend) — Website com interação e visualização dos máquinários através de chatbot.
+- 🔗 [Embedded Integration Frontend](https://github.com/igor-fuchs/Embedded-Integration-Frontend) — Website com interação e visualização dos máquinários.
 - 🔗 [Embedded Integration Backend](https://github.com/igor-fuchs/Embedded-Integration-Backend) — Definição de websockets e APIs, além de backups do Programador Lógico Controlável (PLC).
 - 🔗 [Embedded Integration Bridge](https://github.com/igor-fuchs/Embedded-Integration-Bridge) — Edge Gateway permitindo a comunicação entre o maquinário e backend (OPC UA e Http).
   
