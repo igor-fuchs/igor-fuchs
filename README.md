@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Igor Fuchs Pereira</h1>
 
 <p align="center">
-  💻 Desenvolvedor de Software | ⚙️ Automação Industrial & Dev | 🚀 Focado em evolução constante
+  💻 Desenvolvedor de Software | ⚙️ Dev & Automação Industrial | 🚀 Focado em evolução constante
 </p>
 
 ---
@@ -10,7 +10,6 @@
 
 * 🌱 Atualmente estudando **React, TypeScript, .NET, arquitetura de software e integração de sistemas**
 * 🎯 Objetivo: Atuar como **Desenvolvedor de Software**, conectando o mundo a **softwares modernos**
-* 🎓 Formação / Base técnica: **Mecatrônica / Automação** aplicada ao desenvolvimento de software
 
 ---
 
@@ -31,7 +30,7 @@
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge\&logo=testing-library\&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 
-### Dev & Infra
+### Desenvolvimento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
@@ -51,8 +50,8 @@
 
 ## 🏆 Projetos em destaque
 
-- 🏭 **Conjunto de Aplicações Vinculadas ao Maquinário Fábril**
+- 🏭 **Conjunto de Aplicações .NET & React Vinculadas ao Maquinário Fábril**
 - 🔗 [Embedded Integration Frontend](https://github.com/igor-fuchs/Embedded-Integration-Frontend) — Website com interação e visualização dos máquinários.
 - 🔗 [Embedded Integration Backend](https://github.com/igor-fuchs/Embedded-Integration-Backend) — Definição de websockets e APIs, além de backups do Programador Lógico Controlável (PLC).
-- 🔗 [Embedded Integration Bridge](https://github.com/igor-fuchs/Embedded-Integration-Bridge) — Edge Gateway permitindo a comunicação entre o maquinário e backend (OPC UA e Http).
+- 🔗 [Embedded Integration Bridge](https://github.com/igor-fuchs/Embedded-Integration-Bridge) — Edge Gateway permitindo a comunicação entre o maquinário e backend (OPC UA e HTTP).
   
