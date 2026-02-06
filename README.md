@@ -39,15 +39,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=igor-fuchs&show_icons=true&theme=radical&hide=prs,issues" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-fuchs&layout=compact&theme=radical"/>
-</div>
-
----
-
 ## 🏆 Projetos em destaque
 
 - 🏭 **Conjunto de Aplicações .NET & React Vinculadas ao Maquinário Fábril**
