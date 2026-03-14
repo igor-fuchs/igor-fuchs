@@ -45,19 +45,3 @@
 	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=igor-fuchs&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true&bg_color=00000000">
 	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-fuchs&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
 </p>
-</br>
-<!-- Repos -->
-<div align="center">
-	<a href="https://github.com/igor-fuchs/Embedded-Integration-Frontend">
-		<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=igor-fuchs&repo=Embedded-Integration-Frontend&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-	</a>	
-  <a href="https://github.com/igor-fuchs/Embedded-Integration-Backend">
-		<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=igor-fuchs&repo=Embedded-Integration-Backend&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-	</a>
-</div>
-
-<div align="center">
-	<a href="https://github.com/igor-fuchs/Embedded-Integration-Bridge">
-		<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=igor-fuchs&repo=Embedded-Integration-Bridge&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-	</a>
-</div>
