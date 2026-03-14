@@ -1,48 +1,63 @@
-<h1 align="center">👋 Olá, eu sou Igor Fuchs Pereira</h1>
-
+  <div align="center">
+	<!-- Intro -->
+	<samp>
+		I'm a software developer
+		<br>
+		Working on web technology
+		<br>
+	</samp>
+	<br/>
+	<samp>
+		My Tech Stacks:
+		<br>
+		<br>
+	</samp>
+  <!-- Stacks -->
+	<div>
+		<img src="https://img.shields.io/badge/javascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=black"/> <!-- Javascript -->
+		<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>  <!-- Typescript -->
+		<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <!-- React -->
+	</div>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/> <!-- .NET -->
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/> <!-- Nodejs -->
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <!-- Java -->
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/> <!-- Python -->
+	</div>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/mysql%20-%2302758F.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <!-- MySQL -->
+		<img src="https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <!-- SQL Server -->
+		<img src="https://img.shields.io/badge/mongodb%20-%2302684A.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <!-- MongoDB -->
+	</div>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <!-- Git -->
+		<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/> <!-- Docker -->
+		<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <!-- Postman -->
+		<img src="https://img.shields.io/badge/GitHub%20Actions-%236C2BD9.svg?style=for-the-badge&logo=githubactions&logoColor=white"/> <!-- GitHub Actions -->
+	</div>
+</div>
+</br>
+<!-- Score -->
 <p align="center">
-  💻 Desenvolvedor de Software | ⚙️ Dev & Automação Industrial | 🚀 Focado em evolução constante
+	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=igor-fuchs&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true&bg_color=00000000">
+	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-fuchs&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
 </p>
+</br>
+<!-- Repos -->
+<div align="center">
+	<a href="https://github.com/igor-fuchs/Embedded-Integration-Frontend">
+		<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=igor-fuchs&repo=Embedded-Integration-Frontend&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+	</a>	
+  <a href="https://github.com/igor-fuchs/Embedded-Integration-Backend">
+		<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=igor-fuchs&repo=Embedded-Integration-Backend&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+	</a>
+</div>
 
----
-
-## 🧑‍💻 Sobre mim
-
-* 🌱 Atualmente estudando **React, TypeScript, .NET, arquitetura de software e integração de sistemas**
-* 🎯 Objetivo: Atuar como **Desenvolvedor de Software**, conectando o mundo a **softwares modernos**
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Linguagens
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Testes
-
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge\&logo=vitest\&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge\&logo=testing-library\&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-
-### Desenvolvimento
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 🏆 Projetos em destaque
-
-- 🏭 **Conjunto de Aplicações .NET & React Vinculadas ao Maquinário Fábril**
-- 🔗 [Embedded Integration Frontend](https://github.com/igor-fuchs/Embedded-Integration-Frontend) — Website com interação e visualização dos máquinários.
-- 🔗 [Embedded Integration Backend](https://github.com/igor-fuchs/Embedded-Integration-Backend) — Definição de websockets e APIs, além de backups do Programador Lógico Controlável (PLC).
-- 🔗 [Embedded Integration Bridge](https://github.com/igor-fuchs/Embedded-Integration-Bridge) — Edge Gateway permitindo a comunicação entre o maquinário e backend (OPC UA e HTTP).
-  
+<div align="center">
+	<a href="https://github.com/igor-fuchs/Embedded-Integration-Bridge">
+		<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=igor-fuchs&repo=Embedded-Integration-Bridge&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+	</a>
+</div>
